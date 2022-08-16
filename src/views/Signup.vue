@@ -4,7 +4,7 @@
       <div class="card-header">
         <h6 style="text-align: left">Signup</h6>
         <router-link
-            to="/login"
+            to="/"
             class="nav-link"
             style="text-align: right"
         >
